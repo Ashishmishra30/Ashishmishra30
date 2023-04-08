@@ -5,7 +5,8 @@
 <h1 align="center">Hi <span><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </span>, My name is Ashish</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer.</h3>
-
+<br/>
+<br/>
 <h1 align='center'>An enthusiastic Full Stack Web Developer, a lifelong
 learner, skilled in React.js Front-End Development.
 Knowledge of JavaScript, HTML, CSS, React.js,
