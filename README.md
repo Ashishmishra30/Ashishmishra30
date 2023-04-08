@@ -6,7 +6,15 @@
 </span>, My name is Ashish</h1>
 <h3 align="center">An Aspiring Full Stack Web Developer.</h3>
 
-
+<h1 align='center'>An enthusiastic Full Stack Web Developer, a lifelong
+learner, skilled in React.js Front-End Development.
+Knowledge of JavaScript, HTML, CSS, React.js,
+Chakra UI and Redux. High adaptability to learn new
+technologies quickly and paying attention to details.
+Aims to leverage knowledge and build world-class
+Web Applications while facilitating organization in
+achieving function goals.
+</h1>
 
 ---
 
