@@ -39,13 +39,14 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![react](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![react](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%23F7DF1E)
 ![Node](https://img.shields.io/badge/node-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![redux](https://img.shields.io/badge/redux-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ![mongoDB](https://img.shields.io/badge/mongoDB-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Mongoose](https://img.shields.io/badge/mongoose-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-dd4c35?style=for-the-badge&logo=Git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=Github&logoColor=white)
 
