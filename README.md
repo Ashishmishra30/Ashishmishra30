@@ -35,8 +35,8 @@ achieving function goals.
 I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :zap: In my free time, I read tech articles, read novels
-- 🌱 I’m currently learning **Node, Express, MongoDb**
-- 👯 I am also looking for some **Open Source Oppurtunities**
+- 🌱 I’m currently learning **Node, Express, MongoDB**
+- 👯 I am also looking for some **Open Source Opportunities**
 - 👨🏻‍🎓 Visit my **[Portfolio](https://ashishmishra30.github.io/)**
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Ashishmishra30?tab=repositories)**
 - 🪢 Know more about me **[My Resume](https://drive.google.com/drive/folders/1PL7iFNrX-7CXcBizzoXlj-CeiQf7zZkj)**
