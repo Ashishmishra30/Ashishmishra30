@@ -9,14 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+web+developer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack web developer from India." />
 </p>
 
-<h1 align='center'>An enthusiastic Full Stack Web Developer, a lifelong
-learner, skilled in React.js Front-End Development.
-Knowledge of JavaScript, HTML, CSS, React.js,
-Chakra UI and Redux. High adaptability to learn new
-technologies quickly and paying attention to details.
-Aims to leverage knowledge and build world-class
-Web Applications while facilitating organization in
-achieving function goals.
+<h1 align='center'>Enthusiastic Full Stack Web Developer with 2.9 years of experience in React.js and React Native. Skilled in JavaScript, HTML, CSS, React.js, Redux, Chakra UI, Tailwind, and Next.js. Known for quick learning, attention to detail, and high adaptability to new technologies. Passionate about building world-class web applications and contributing to organizational success.
 </h1>
 
 ---
