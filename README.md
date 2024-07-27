@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&speed=10&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+web+developer+from+India" alt="Welcome to my GitHub Profile. I am a passionate full-stack web developer from India." />
 </p>
 
-<h1 align='center'>An enthusiastic Full Stack Web Developer, has experience in React.js and React Native. Their skill set includes JavaScript, HTML, CSS, Redux, Chakra UI, Tailwind, and Next.js. Known for quick learning abilities and keen attention to detail, [Your Name] adapts swiftly to new technologies and challenges. Passionate about building world-class web applications, they strive to exceed user expectations and contribute to organizational success. As a lifelong learner continuously seeks opportunities to expand their expertise and stay updated with the latest industry trends.
+<h1 align='center'>An enthusiastic Full Stack Web Developer with experience in React.js and React Native. Skilled in JavaScript, HTML, CSS, Redux, Chakra UI, Tailwind, and Next.js. Known for quick learning abilities and keen attention to detail, adapts swiftly to new technologies and challenges. Passionate about building world-class web applications, always striving to exceed user expectations and contribute to organizational success. As a lifelong learner, continuously seeks opportunities to expand expertise and stay updated with the latest industry trends.
 </h1>
 
 ---
